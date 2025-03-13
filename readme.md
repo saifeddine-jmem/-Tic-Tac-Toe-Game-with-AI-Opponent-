@@ -1,3 +1,5 @@
+🎮 Tic-Tac-Toe Game with AI Opponent 🤖
+
 This project is a classic Tic-Tac-Toe game implemented in Python using the pygame library. It features a single-player mode where you can play against an AI opponent that uses the Minimax algorithm to make optimal moves. The game is simple, fun, and a great way to understand how AI decision-making works in board games!
 
 📂 Project Files:
